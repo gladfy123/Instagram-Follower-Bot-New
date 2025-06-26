@@ -5,8 +5,8 @@ import time
 import schedule
 
 # Credentials
-USERNAME = "email"
-PASSWORD = "password"
+USERNAME = "nethulann"
+PASSWORD = "nethula@2009"
 
 # Posts to search for
 tags = ["pixelart", "gamedev", "indiegame", "pythoncoding"]
